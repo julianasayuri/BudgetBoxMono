@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{97359DD8-293B-4E5F-8EA4-43A8BD52F0CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.BudgetBox PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BudgetBox/Program.cs">
+    <Files>
+      <File FileName="BudgetBox/Program.cs" Line="1" Column="1" />
+      <File FileName="BudgetBox/MainWindow.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BudgetBox" expanded="True">
+            <Node name="BudgetBox" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

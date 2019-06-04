@@ -1,0 +1,12 @@
+/home/morota/Projects/BudgetBox/BudgetBox/bin/Debug/BudgetBox.exe
+/home/morota/Projects/BudgetBox/BudgetBox/bin/Debug/BudgetBox.pdb
+/home/morota/Projects/BudgetBox/BudgetBox/obj/x86/Debug/BudgetBox.csprojAssemblyReference.cache
+/home/morota/Projects/BudgetBox/BudgetBox/obj/x86/Debug/BudgetBox.csproj.CoreCompileInputs.cache
+/home/morota/Projects/BudgetBox/BudgetBox/obj/x86/Debug/BudgetBox.exe
+/home/morota/Projects/BudgetBox/BudgetBox/obj/x86/Debug/BudgetBox.pdb
+/home/morota/Projects/BudgetBoxMono/BudgetBox/bin/Debug/BudgetBox.exe
+/home/morota/Projects/BudgetBoxMono/BudgetBox/bin/Debug/BudgetBox.pdb
+/home/morota/Projects/BudgetBoxMono/BudgetBox/obj/x86/Debug/BudgetBox.csprojAssemblyReference.cache
+/home/morota/Projects/BudgetBoxMono/BudgetBox/obj/x86/Debug/BudgetBox.csproj.CoreCompileInputs.cache
+/home/morota/Projects/BudgetBoxMono/BudgetBox/obj/x86/Debug/BudgetBox.exe
+/home/morota/Projects/BudgetBoxMono/BudgetBox/obj/x86/Debug/BudgetBox.pdb
