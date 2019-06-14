@@ -1,16 +1,17 @@
 ﻿<Properties StartupConfiguration="{97359DD8-293B-4E5F-8EA4-43A8BD52F0CB}|Default">
   <MonoDevelop.Ide.ItemProperties.BudgetBox PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BudgetBox/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BudgetBox/MainWindow.cs">
     <Files>
       <File FileName="BudgetBox/Program.cs" Line="1" Column="1" />
-      <File FileName="BudgetBox/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="BudgetBox/MainWindow.cs" Line="6" Column="68" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BudgetBox" expanded="True">
             <Node name="BudgetBox" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="UserInterface" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
             </Node>
           </Node>
         </State>
